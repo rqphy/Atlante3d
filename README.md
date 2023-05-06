@@ -1,5 +1,7 @@
 # Atlante3d
 
+/!\ The code won’t be displayed because it’s a private project.
+
 ## The idea
 
 This is my first project as a freelance developer! Atlante is creating an EV charging network across Europe. They want to create a 3d website to showcase the charging experience you'll get in their stations.
