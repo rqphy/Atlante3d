@@ -8,7 +8,7 @@ This is my first project as a freelance developer! Atlante is creating an EV cha
 
 The website will be divided in 2 parts. At first we'll show the charging station with as many details as we can. Once the user has checked out the station, he will be able to discover the whole place with all the elements around the charging spots.
 
-[Live](https://www.atlante-3dexperience.com/)
+/!\ The site is not live anymore
 
 ## Features
 
